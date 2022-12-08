@@ -30,6 +30,23 @@ Para colaborar complemtando o mejorando este repositorio público existen varias
 ## Normas
 
 ### 01	Andalucía
+
+Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía (LISTA).
+
+Artículo 62. Contenido documental de los instrumentos de ordenación urbanística
+
+| Característica | Incluido | Observaciones |
+| ----------- | ----------- | ----------- |
+| Cartografía |  | |
+| Capas | Sí | Anexo 2 |
+| Modelos | Sí | Anexo 3: Modelo de datos de los archivos vectoriales |
+| Topología | Sí  | Anexo 2 |
+| Simbología | Sí | Anexo 2: Simbología gráfica y parámetros de etiquetado |
+| Fichas |  | |
+| Aplicaciones | | |
+| Metadatos | | |
+| Documentación | | |
+
 ### 02	Aragón
 
 **Proyecto NOTEPA. Normalización del planeamiento urbanístico en Aragón. [Enlace](http://notepa.aragon.es/)** . DECRETO 78/2017, de 23 de mayo, del Gobierno de Aragón, por el que se aprueba la Norma Técnica de Planeamiento (NOTEPA)
