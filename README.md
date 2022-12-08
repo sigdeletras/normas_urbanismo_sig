@@ -6,12 +6,14 @@ Recopilación normativas técnicas españolas que regulen la presentación digit
 
 ## Características
 
-- Denominación de capas: 
-- Tablas de dominio: 
-- Calidad topológica: 
-- Símbología:
-- Archivos semilla:
-- Documentación:
+- Cartografía: Relación de cartografías de referencia.
+- Capas: Incorporación de relación de capas a utilizar. Se suele incorporar tablas donde se presentan una codificación de las capas.
+- Diccionarios: Tablas de valores diccionario a usar en los campos de las capas principales
+- Topología: Guías para la representación de entidades gráficas (geográficas), escalas de representación.
+- Símbología: Gamas de colores, etiquetas
+- Aplicaciones: Se suministra archivos, ficheros o herramientas informáticas para aplicar la norma.
+- Metadatos: Metadatos de referencia
+- Documentación: Manueales de ayuda, guías, video tutoriales...
 
 ## Normas
 
@@ -24,11 +26,14 @@ Dirección General de Urbanismo del Gobierno de Aragón
 
 | Característica | Incluido | Observaciones |
 | ----------- | ----------- | ----------- |
-| Denominación de capas |  | |
-| Tablas de dominio |  | |
-| Calidad topológica |  | |
+| Cartografía |  | |
+| Capas |  | |
+| Diccionarios |  | |
+| Topología |  | |
 | Símbología |  | |
-| Archivos semilla |  | |
+| Aplicaciones | Sí | NOTEPACAD y NOTEPAGIS (ArcGIS 9)|
+| Metadatos | | |
+| Documentación | | |
 
 ### 03	Asturias, Principado de
 
@@ -40,11 +45,13 @@ Dirección General de Urbanismo del Gobierno de Aragón
 
 | Característica | Incluido | Observaciones |
 | ----------- | ----------- | ----------- |
-| Denominación de capas |  | |
-| Tablas de dominio |  | |
-| Calidad topológica |  | |
+| Cartografía |  | |
+| Capas |  | |
+| Diccionarios |  | |
+| Topología |  | |
 | Símbología |  | |
-| Archivos semilla | Sí | 3 formatos vectoriales (ArcView, AutoCAD Map y GeoMedia)|
+| Aplicaciones | Sí | 3 formatos vectoriales (ArcView, AutoCAD Map y GeoMedia)|
+| Metadatos | | |
 | Documentación | Sí | Tutoriales para AutocadMap |
 
 ### 04	Balears, Illes
@@ -55,11 +62,14 @@ Dirección General de Territorio y Paisaje.
 
 | Característica | Incluido | Observaciones |
 | ----------- | ----------- | ----------- |
-| Denominación de capas |  | |
-| Tablas de dominio |  | |
-| Calidad topológica |  | |
+| Cartografía |  | |
+| Capas |  | |
+| Diccionarios |  | |
+| Topología |  | |
 | Símbología |  | |
-| Archivos semilla |  | |
+| Aplicaciones | | |
+| Metadatos | | |
+| Documentación | | |
 
 ### 05	Canarias
 ### 06	Cantabria
@@ -71,11 +81,14 @@ Consejería de Fomento
 
 | Característica | Incluido | Observaciones |
 | ----------- | ----------- | ----------- |
-| Denominación de capas |  | |
-| Tablas de dominio |  | |
-| Calidad topológica |  | |
+| Cartografía |  | |
+| Capas |  | |
+| Diccionarios |  | |
+| Topología |  | |
 | Símbología |  | |
-| Archivos semilla |  | |
+| Aplicaciones | | |
+| Metadatos | | |
+| Documentación | | |
 
 
 ### 08	Castilla - La Mancha
@@ -90,11 +103,14 @@ Conselleria de Política Territorial, Obras Públicas y Movilidad
 
 | Característica | Incluido | Observaciones |
 | ----------- | ----------- | ----------- |
-| Denominación de capas |  | |
-| Tablas de dominio |  | |
-| Calidad topológica |  | |
+| Cartografía |  | |
+| Capas |  | |
+| Diccionarios |  | |
+| Topología |  | |
 | Símbología |  | |
-| Archivos semilla |  | |
+| Aplicaciones | | |
+| Metadatos | | |
+| Documentación | | |
 
 ### 11	Extremadura
 
@@ -106,11 +122,14 @@ Consellería de Medio Ambiente, Territorio y Vivienda
 
 | Característica | Incluido | Observaciones |
 | ----------- | ----------- | ----------- |
-| Denominación de capas |  | |
-| Tablas de dominio |  | |
-| Calidad topológica |  | |
+| Cartografía |  | |
+| Capas |  | |
+| Diccionarios |  | |
+| Topología |  | |
 | Símbología |  | |
-| Archivos semilla |  | |
+| Aplicaciones | | |
+| Metadatos | | |
+| Documentación | | |
 
 ### 13	Madrid, Comunidad de
 
@@ -122,11 +141,14 @@ Consellería de Medio Ambiente, Territorio y Vivienda
 
 | Característica | Incluido | Observaciones |
 | ----------- | ----------- | ----------- |
-| Denominación de capas |  | |
-| Tablas de dominio |  | |
-| Calidad topológica |  | |
+| Cartografía |  | |
+| Capas |  | |
+| Diccionarios |  | |
+| Topología |  | |
 | Símbología |  | |
-| Archivos semilla |  | |
+| Aplicaciones | | |
+| Metadatos | | |
+| Documentación | | |
 
 ### 16	País Vasco
 
@@ -135,7 +157,3 @@ Consellería de Medio Ambiente, Territorio y Vivienda
 ### 18	Ceuta
 
 ### 19	Melilla
-
-
-
-
