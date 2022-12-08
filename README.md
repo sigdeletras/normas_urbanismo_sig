@@ -10,9 +10,9 @@ Recopilación normativas técnicas españolas que regulen la presentación digit
 
 Decreto 65/2021, de 14 de mayo, del Consell, de regulación de la Plataforma Urbanística Digital y de la presentación de los instrumentos de planificación urbanística y territorial. https://dogv.gva.es/portal/ficha_disposicion_pc.jsp?sig=005292/2021&L=1
 
-| Carecterística      | Incluído | Observaciones |
+| Característica      | Incluido | Observaciones |
 | ----------- | ----------- | ----------- |
-| Denominación de capas      | Title       | Title       |
-| Tablas de dominio   | Text        | Text        |
-| Calidad topológica   | Text        | Text        |
-| Símbología   | Text        | Text        |
+| Denominación de capas | Title       | Title       |
+| Tablas de dominio | Text        | Text        |
+| Calidad topológica| Text        | Text        |
+| Símbología | Text        | Text        |
