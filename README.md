@@ -3,14 +3,17 @@
 Recopilación y análisis normativas técnicas españolas que regulen la presentación digital de los instrumentos de planificación urbanística y territorial en formato #GIS.
 
 - [1º Entrada y mensajes en Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6979697381382479872/)
-- [2º Entrada y mensajes en Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6979697381382479872/)
+- [2º Entrada y mensajes en Linkedin]()
 
 ## ¿Cómo colaborar?
 
-Para colaborar complemtando o mejorando este repositorio público existen varias vías
-- Añadir un issue indicando un nuevo recurso o enlace de interés.
-- Clonando el respositorio y realizando Pull Request. [¿Breve guía para principiantes de como contribuir a un repositorio en GitHub?](https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/)
-- 
+Para colaborar complemtando o mejorando este repositorio público existen varias vías. Por orden de preferencia:
+
+1. Añadir un [issue](https://github.com/sigdeletras/normas_urbanismo_sig/issues) a este reposotorio indicando un nuevo recurso o enlace de interés.
+2. Clonando el respositorio y realizando Pull Request. [¿Breve guía para principiantes de como contribuir a un repositorio en GitHub?](https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/)
+3. Entrando en el hilo creado en [Linkedin]() y hacer un comentario.
+4. Compartiendo este enlace en Linkedin o en Twitter haciendo referencia al perfil [@sigdeletras](https://twitter.com/sigdeletras)
+
 ## Características a evaluar
 
 - Cartografía: Relación de cartografías de referencia.
