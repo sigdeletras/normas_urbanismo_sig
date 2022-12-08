@@ -38,7 +38,7 @@ Artículo 62. Contenido documental de los instrumentos de ordenación urbanísti
 | Característica | Incluido | Observaciones |
 | ----------- | ----------- | ----------- |
 | Cartografía |  | |
-| Capas | Sí | Anexo 2 |
+| Capas |  |  |
 | Modelos | Sí | Anexo 3: Modelo de datos de los archivos vectoriales |
 | Topología | Sí  | Anexo 2 |
 | Simbología | Sí | Anexo 2: Simbología gráfica y parámetros de etiquetado |
@@ -46,6 +46,10 @@ Artículo 62. Contenido documental de los instrumentos de ordenación urbanísti
 | Aplicaciones | | |
 | Metadatos | | |
 | Documentación | | |
+
+**De interés**
+
+- Documento de la Diputación de Sevilla. Pliego de Prescripciones técnicas para la contratación de servicios de redación del Plan General/Básico de Ordenación municipal. [PDF](https://www.dipusevilla.es/export/sites/diputacion-sevilla-corporativo/.galleries/DOCUMENTOS-descarga/DOCUMENTOS-Cohesion-territorial/subvenciones-planeamiento-urbanistico/2-PPT.pdf). ANEXO II Hace referencia a las carecterísticas de la entrega de documentación en sorporte digital, añadiendo un partado breve sobre Modelo de datos SIG indicando una Estructura de las capas de información urbanística general (Estructura de las capas de información urbanística general,  Estructura de las capas de ordenación urbanística general
 
 ### 02	Aragón
 
