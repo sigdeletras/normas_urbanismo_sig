@@ -11,6 +11,7 @@ Recopilación normativas técnicas españolas que regulen la presentación digit
 - Diccionarios: Tablas de valores diccionario a usar en los campos de las capas principales
 - Topología: Guías para la representación de entidades gráficas (geográficas), escalas de representación.
 - Símbología: Gamas de colores, etiquetas
+- Fichas: Normalización de formato y campos para la presentación de fichas
 - Aplicaciones: Se suministra archivos, ficheros o herramientas informáticas para aplicar la norma.
 - Metadatos: Metadatos de referencia
 - Documentación: Manueales de ayuda, guías, video tutoriales...
@@ -20,20 +21,21 @@ Recopilación normativas técnicas españolas que regulen la presentación digit
 ### 01	Andalucía
 ### 02	Aragón
 
-**Proyecto NOTEPA. Normalización del planeamiento urbanístico en Aragón. [Enlace](http://notepa.aragon.es/)**
+**Proyecto NOTEPA. Normalización del planeamiento urbanístico en Aragón. [Enlace](http://notepa.aragon.es/)** . DECRETO 78/2017, de 23 de mayo, del Gobierno de Aragón, por el que se aprueba la Norma Técnica de Planeamiento (NOTEPA)
 
 Dirección General de Urbanismo del Gobierno de Aragón
 
 | Característica | Incluido | Observaciones |
 | ----------- | ----------- | ----------- |
-| Cartografía |  | |
-| Capas |  | |
+| Cartografía | Sí | Proporcionada por el IGEAR |
+| Capas | Sí | ANEXO IV |
 | Diccionarios |  | |
-| Topología |  | |
-| Símbología |  | |
-| Aplicaciones | Sí | NOTEPACAD y NOTEPAGIS (ArcGIS 9)|
-| Metadatos | | |
-| Documentación | | |
+| Topología | ¿? | No se ha encontrado una referencia clara. Puede que se encuentre en las aplicaciones CAD y GIS . En la norma se hace referencia a Geodatabases|
+| Símbología | Sí | ANEXO III |
+| Fichas | Sí | Excel |
+| Aplicaciones | Sí | NOTEPACAD (AutoCAD) y NOTEPAGIS (ArcGIS 9)|
+| Metadatos | Sí | Basados en la ISO 19115. Entrega en [hoja de cálculo](http://notepa.aragon.es/images/stories/201609_otros/Excel%20de%20Metadatos.xls) |
+| Documentación | Sí| |
 
 ### 03	Asturias, Principado de
 
@@ -50,6 +52,7 @@ Dirección General de Urbanismo del Gobierno de Aragón
 | Diccionarios |  | |
 | Topología |  | |
 | Símbología |  | |
+| Fichas |  | |
 | Aplicaciones | Sí | 3 formatos vectoriales (ArcView, AutoCAD Map y GeoMedia)|
 | Metadatos | | |
 | Documentación | Sí | Tutoriales para AutocadMap |
@@ -67,6 +70,7 @@ Dirección General de Territorio y Paisaje.
 | Diccionarios |  | |
 | Topología |  | |
 | Símbología |  | |
+| Fichas |  | |
 | Aplicaciones | | |
 | Metadatos | | |
 | Documentación | | |
@@ -86,6 +90,7 @@ Consejería de Fomento
 | Diccionarios |  | |
 | Topología |  | |
 | Símbología |  | |
+| Fichas |  | |
 | Aplicaciones | | |
 | Metadatos | | |
 | Documentación | | |
@@ -108,6 +113,7 @@ Conselleria de Política Territorial, Obras Públicas y Movilidad
 | Diccionarios |  | |
 | Topología |  | |
 | Símbología |  | |
+| Fichas |  | |
 | Aplicaciones | | |
 | Metadatos | | |
 | Documentación | | |
@@ -127,6 +133,7 @@ Consellería de Medio Ambiente, Territorio y Vivienda
 | Diccionarios |  | |
 | Topología |  | |
 | Símbología |  | |
+| Fichas |  | |
 | Aplicaciones | | |
 | Metadatos | | |
 | Documentación | | |
@@ -146,6 +153,7 @@ Consellería de Medio Ambiente, Territorio y Vivienda
 | Diccionarios |  | |
 | Topología |  | |
 | Símbología |  | |
+| Fichas |  | |
 | Aplicaciones | | |
 | Metadatos | | |
 | Documentación | | |
