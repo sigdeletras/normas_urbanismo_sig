@@ -29,11 +29,11 @@ Dirección General de Urbanismo del Gobierno de Aragón
 | ----------- | ----------- | ----------- |
 | Cartografía | Sí | Proporcionada por el IGEAR |
 | Capas | Sí | ANEXO IV |
-| Modelos |  | |
+| Modelos | No | La referencia a los modelos es exlusiva a al anexo ANEXO VI - Geodatabase. No se ha localizado dicha Geodatabase|
 | Topología | ¿? | No se ha encontrado una referencia clara. Puede que se encuentre en las aplicaciones CAD y GIS . En la norma se hace referencia a Geodatabases|
 | Símbología | Sí | ANEXO III |
 | Fichas | Sí | Excel |
-| Aplicaciones | Sí | NOTEPACAD (AutoCAD) y NOTEPAGIS (ArcGIS 9)|
+| Aplicaciones | Sí | NOTEPACAD (AutoCAD / Autocad Map) y NOTEPAGIS (ArcGIS 9)|
 | Metadatos | Sí | Basados en la ISO 19115. Entrega en [hoja de cálculo](http://notepa.aragon.es/images/stories/201609_otros/Excel%20de%20Metadatos.xls) |
 | Documentación | Sí| |
 
