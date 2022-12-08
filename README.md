@@ -1,10 +1,11 @@
-# normas_urbanismo_sig
+# Normas y especificaciones técnicas sobre planeamiento urbanístico en España
 
-Recopilación normativas técnicas españolas que regulen la presentación digital de los instrumentos de planificación urbanística y territorial en formato #GIS.
+Recopilación y análisis normativas técnicas españolas que regulen la presentación digital de los instrumentos de planificación urbanística y territorial en formato #GIS.
 
-[Entrada y mensajes en Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6979697381382479872/)
+- [1º Entrada y mensajes en Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6979697381382479872/)
+- [2º Entrada y mensajes en Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6979697381382479872/)
 
-## Características
+## Características a evaluar
 
 - Cartografía: Relación de cartografías de referencia.
 - Capas: Incorporación de relación de capas a utilizar. Se suele incorporar tablas donde se presentan una codificación de las capas.
