@@ -8,7 +8,7 @@ Recopilación normativas técnicas españolas que regulen la presentación digit
 
 - Cartografía: Relación de cartografías de referencia.
 - Capas: Incorporación de relación de capas a utilizar. Se suele incorporar tablas donde se presentan una codificación de las capas.
-- Diccionarios: Tablas de valores diccionario a usar en los campos de las capas principales
+- Modelos: Se incluye relación de campos a cumplimentar, incluyendo su tipo (texto, entero, decimal, booleano) y diccionarios (tablas de dominio a aplicar a campos)
 - Topología: Guías para la representación de entidades gráficas (geográficas), escalas de representación.
 - Símbología: Gamas de colores, etiquetas
 - Fichas: Normalización de formato y campos para la presentación de fichas
@@ -29,7 +29,7 @@ Dirección General de Urbanismo del Gobierno de Aragón
 | ----------- | ----------- | ----------- |
 | Cartografía | Sí | Proporcionada por el IGEAR |
 | Capas | Sí | ANEXO IV |
-| Diccionarios |  | |
+| Modelos |  | |
 | Topología | ¿? | No se ha encontrado una referencia clara. Puede que se encuentre en las aplicaciones CAD y GIS . En la norma se hace referencia a Geodatabases|
 | Símbología | Sí | ANEXO III |
 | Fichas | Sí | Excel |
@@ -49,7 +49,7 @@ Dirección General de Urbanismo del Gobierno de Aragón
 | ----------- | ----------- | ----------- |
 | Cartografía |  | |
 | Capas |  | |
-| Diccionarios |  | |
+| Modelos |  | |
 | Topología |  | |
 | Símbología |  | |
 | Fichas |  | |
@@ -67,7 +67,7 @@ Dirección General de Territorio y Paisaje.
 | ----------- | ----------- | ----------- |
 | Cartografía |  | |
 | Capas |  | |
-| Diccionarios |  | |
+| Modelos |  | |
 | Topología |  | |
 | Símbología |  | |
 | Fichas |  | |
@@ -87,7 +87,7 @@ Consejería de Fomento
 | ----------- | ----------- | ----------- |
 | Cartografía |  | |
 | Capas |  | |
-| Diccionarios |  | |
+| Modelos |  | |
 | Topología |  | |
 | Símbología |  | |
 | Fichas |  | |
@@ -110,7 +110,7 @@ Conselleria de Política Territorial, Obras Públicas y Movilidad
 | ----------- | ----------- | ----------- |
 | Cartografía |  | |
 | Capas |  | |
-| Diccionarios |  | |
+| Modelos |  | |
 | Topología |  | |
 | Símbología |  | |
 | Fichas |  | |
@@ -130,7 +130,7 @@ Consellería de Medio Ambiente, Territorio y Vivienda
 | ----------- | ----------- | ----------- |
 | Cartografía |  | |
 | Capas |  | |
-| Diccionarios |  | |
+| Modelos |  | |
 | Topología |  | |
 | Símbología |  | |
 | Fichas |  | |
@@ -150,7 +150,7 @@ Consellería de Medio Ambiente, Territorio y Vivienda
 | ----------- | ----------- | ----------- |
 | Cartografía |  | |
 | Capas |  | |
-| Diccionarios |  | |
+| Modelos |  | |
 | Topología |  | |
 | Símbología |  | |
 | Fichas |  | |
