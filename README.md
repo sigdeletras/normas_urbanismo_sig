@@ -18,7 +18,7 @@ Recopilación normativas técnicas españolas que regulen la presentación digit
 ### 01	Andalucía
 ### 02	Aragón
 
-Proyecto NOTEPA. Normalización del planeamiento urbanístico en Aragón. [Enlace](http://notepa.aragon.es/)
+**Proyecto NOTEPA. Normalización del planeamiento urbanístico en Aragón. [Enlace](http://notepa.aragon.es/)**
 
 Dirección General de Urbanismo del Gobierno de Aragón
 
@@ -32,7 +32,7 @@ Dirección General de Urbanismo del Gobierno de Aragón
 
 ### 03	Asturias, Principado de
 
-Normalización urbanística. [Enlace](https://www.asturias.es/detalle/-/categories/612963?p_r_p_categoryId=612963&_com_liferay_asset_categories_navigation_web_portlet_AssetCategoriesNavigationPortlet_articleId=2535583&articleId=2535583&title=Normalizaci%C3%B3n%20urban%C3%ADstica&redirect=https%3A%2F%2Fwww.asturias.es%2Fast%2Fgeneral%2F-%2Fcategories%2F572499%3Fp_r_p_categoryId%3D572499)
+**Normalización urbanística. [Enlace](https://www.asturias.es/detalle/-/categories/612963?p_r_p_categoryId=612963&_com_liferay_asset_categories_navigation_web_portlet_AssetCategoriesNavigationPortlet_articleId=2535583&articleId=2535583&title=Normalizaci%C3%B3n%20urban%C3%ADstica&redirect=https%3A%2F%2Fwww.asturias.es%2Fast%2Fgeneral%2F-%2Fcategories%2F572499%3Fp_r_p_categoryId%3D572499)**
 
 [Registro de planeamiento y gestión urbanística y su integración en el Sistema de Información Territorial del Principado de Asturias, dictada mediante Resolución de 2 de septiembre de 2014, (BOPA de 25 de septiembre de 2014)](https://www.asturias.es/bopa/2014/09/25/2014-15826.pdf)
 
@@ -49,7 +49,7 @@ Normalización urbanística. [Enlace](https://www.asturias.es/detalle/-/categori
 
 ### 04	Balears, Illes
 
-Normas Técnicas de Planeamiento (NTP) [Enlace](https://www.caib.es/sites/muib/es/ntp_normas_tecnicas_de_planeamiento/)
+**Normas Técnicas de Planeamiento (NTP) [Enlace](https://www.caib.es/sites/muib/es/ntp_normas_tecnicas_de_planeamiento/)**
 
 Dirección General de Territorio y Paisaje. 
 
@@ -65,7 +65,7 @@ Dirección General de Territorio y Paisaje.
 ### 06	Cantabria
 ### 07	Castilla y León
 
-ORDEN FOM/1572/2006, de 27 de septiembre, por la que se aprueba la Instrucción Técnica Urbanística 2/2006, sobre normalización de los Instrumentos de Planeamiento Urbanístico (ITPLAN). [Enlace]([https://dogv.gva.es/portal/ficha_disposicion_pc.jsp?sig=005292/2021&L=1](https://bocyl.jcyl.es/boletines/2006/10/10/pdf/BOCYL-D-10102006-10.pdf))
+**ORDEN FOM/1572/2006, de 27 de septiembre, por la que se aprueba la Instrucción Técnica Urbanística 2/2006, sobre normalización de los Instrumentos de Planeamiento Urbanístico (ITPLAN). [Enlace]([https://dogv.gva.es/portal/ficha_disposicion_pc.jsp?sig=005292/2021&L=1](https://bocyl.jcyl.es/boletines/2006/10/10/pdf/BOCYL-D-10102006-10.pdf))**
 
 Consejería de Fomento
 
@@ -84,7 +84,7 @@ Consejería de Fomento
 
 ### 10	Comunitat Valenciana.
 
-Decreto 65/2021, de 14 de mayo, del Consell, de regulación de la Plataforma Urbanística Digital y de la presentación de los instrumentos de planificación urbanística y territorial. [Enlace](https://dogv.gva.es/portal/ficha_disposicion_pc.jsp?sig=005292/2021&L=1)
+**Decreto 65/2021, de 14 de mayo, del Consell, de regulación de la Plataforma Urbanística Digital y de la presentación de los instrumentos de planificación urbanística y territorial. [Enlace](https://dogv.gva.es/portal/ficha_disposicion_pc.jsp?sig=005292/2021&L=1)**
 
 Conselleria de Política Territorial, Obras Públicas y Movilidad
 
@@ -100,7 +100,7 @@ Conselleria de Política Territorial, Obras Públicas y Movilidad
 
 ### 12	Galicia
 
-ORDEN de 8 de abril de 2022 por la que se modifica la Orden de 10 de octubre de 2019 de aprobación de las normas técnicas de planeamiento urbanístico de Galicia. [Enlace](http://www.lexnavarra.navarra.es/detalle.asp?r=52066](https://www.xunta.gal/dog/Publicados/2022/20220425/AnuncioG0532-080422-0005_es.html) 
+**ORDEN de 8 de abril de 2022 por la que se modifica la Orden de 10 de octubre de 2019 de aprobación de las normas técnicas de planeamiento urbanístico de Galicia. [Enlace](http://www.lexnavarra.navarra.es/detalle.asp?r=52066](https://www.xunta.gal/dog/Publicados/2022/20220425/AnuncioG0532-080422-0005_es.html)** 
 
 Consellería de Medio Ambiente, Territorio y Vivienda
 
@@ -118,7 +118,7 @@ Consellería de Medio Ambiente, Territorio y Vivienda
 
 ### 15	Navarra, Comunidad Foral de
 
-Decreto Foral 253/2019 de 16 Oct. CF Navarra. Registro de Planeamiento de Navarra y el formato de presentación de los instrumentos de planificación urbanística y territorial de Navarra [Enlace](http://www.lexnavarra.navarra.es/detalle.asp?r=52066)
+**Decreto Foral 253/2019 de 16 Oct. CF Navarra. Registro de Planeamiento de Navarra y el formato de presentación de los instrumentos de planificación urbanística y territorial de Navarra [Enlace](http://www.lexnavarra.navarra.es/detalle.asp?r=52066)**
 
 | Característica | Incluido | Observaciones |
 | ----------- | ----------- | ----------- |
