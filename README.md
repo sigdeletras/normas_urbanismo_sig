@@ -20,11 +20,11 @@ Para colaborar complemtando o mejorando este repositorio público existen varias
 - Capas: Incorporación de relación de capas a utilizar. Se suele incorporar tablas donde se presentan una codificación de las capas.
 - Modelos: Se incluye relación de campos a cumplimentar, incluyendo su tipo (texto, entero, decimal, booleano) y diccionarios (tablas de dominio a aplicar a campos)
 - Topología: Guías para la representación de entidades gráficas (geográficas), escalas de representación.
-- Símbología: Gamas de colores, etiquetas
+- Simbología: Gamas de colores, etiquetas
 - Fichas: Normalización de formato y campos para la presentación de fichas
 - Aplicaciones: Se suministra archivos, ficheros o herramientas informáticas para aplicar la norma.
 - Metadatos: Metadatos de referencia
-- Documentación: Manueales de ayuda, guías, video tutoriales...
+- Documentación: Manuales de ayuda, guías, video tutoriales...
 
 ## Normas
 
@@ -41,7 +41,7 @@ Dirección General de Urbanismo del Gobierno de Aragón
 | Capas | Sí | ANEXO IV |
 | Modelos | No | La referencia a los modelos es exlusiva a al anexo ANEXO VI - Geodatabase. No se ha localizado dicha Geodatabase|
 | Topología | ¿? | No se ha encontrado una referencia clara. Puede que se encuentre en las aplicaciones CAD y GIS . En la norma se hace referencia a Geodatabases|
-| Símbología | Sí | ANEXO III |
+| Simbología | Sí | ANEXO III |
 | Fichas | Sí | Excel |
 | Aplicaciones | Sí | NOTEPACAD (AutoCAD / Autocad Map) y NOTEPAGIS (ArcGIS 9)|
 | Metadatos | Sí | Basados en la ISO 19115. Entrega en [hoja de cálculo](http://notepa.aragon.es/images/stories/201609_otros/Excel%20de%20Metadatos.xls) |
@@ -61,7 +61,7 @@ Dirección General de Urbanismo del Gobierno de Aragón
 | Capas | Sí | |
 | Modelos | Sí | Base de Datos Espacial (estructura, los campos y los dominios) anexo III|
 | Topología | Sí | |
-| Símbología | Sí | Artículo 9.—Documentación gráfica. artículo 4. 4 de la Instrucción |
+| Simbología | Sí | Artículo 9.—Documentación gráfica. artículo 4. 4 de la Instrucción |
 | Fichas | ¿? | No localizadas|
 | Aplicaciones | Sí | 3 formatos vectoriales (ArcView, AutoCAD Map y GeoMedia) . Archivos shp, ndb (geomedia) y dwg|
 | Metadatos | No | |
@@ -116,7 +116,7 @@ Consejería de Fomento
 | Capas | ¿? | No me queda claro |
 | Modelos | ¿? | Geodatabase o Shapefile, según plantilla. No localizada. DISPOSICIÓN ADICIONAL 1. TABLA SÍNTESIS DE USOS  y Tablas de Tipologías|
 | Topología | ¿? | artículo 2 |
-| Símbología | Sí | Publicada en el BOP en escala de grises|
+| Simbología | Sí | Publicada en el BOP en escala de grises|
 | Fichas | Sí | Fichas de síntesis ¿Digitales? |
 | Aplicaciones | Sí | PLURCAD, que consisten en personalizaciones de los productos CAD|
 | Metadatos | Sí | ficha síntesis con los datos clave del planeamiento (metadatos), conforme al modelo reproducido en la Disposición Adicional|
@@ -146,7 +146,7 @@ Conselleria de Política Territorial, Obras Públicas y Movilidad
 | Modelos | Sí | Anexo III |
 | Topología | Sí | Anexo I . ) Los recintos representados gráficamente vendrán definidos siempre por entidades poligonales cerradas, perfectamente solidarias entre
 sí, sin huecos y sin solapas, y serán recintos planos, con altura cero en la coordenada “z”. |
-| Símbología | Sí | Anexo IV|
+| Simbología | Sí | Anexo IV|
 | Fichas | ¿? | No localizadas|
 | Aplicaciones | Sí | Descarga http://politicaterritorial.gva.es/va/web/urbanismo/sistema-de-informacion-urbanistic |
 | Metadatos | Sí |  estándar ISO19115|
@@ -166,7 +166,7 @@ Consellería de Medio Ambiente, Territorio y Vivienda
 | Capas | Sí | Anexo 2 |
 | Modelos | Sí | Anexo 3: Modelo de datos de los archivos vectoriales |
 | Topología | Sí  | Anexo 2 |
-| Símbología | Sí | Anexo 2: Simbología gráfica y parámetros de etiquetado |
+| Simbología | Sí | Anexo 2: Simbología gráfica y parámetros de etiquetado |
 | Fichas |  | |
 | Aplicaciones | | |
 | Metadatos | | |
@@ -190,7 +190,7 @@ Consellería de Medio Ambiente, Territorio y Vivienda
 | Capas | Sí | ANEXO: Formatos de archivo La información geográfica vectorial señalada en el artículo 10 se entregará en formato shapefile. EPSG: 25830 |
 | Modelos | Sí | TÍTULO IV |
 | Topología | Sí  | La geometría será de tipo poligonal aceptando elementos multiparte y polígonos|
-| Símbología | No | |
+| Simbología | No | |
 | Fichas | No | |
 | Aplicaciones | No | |
 | Metadatos | No | |
