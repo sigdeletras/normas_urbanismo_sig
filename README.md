@@ -48,13 +48,13 @@ Dirección General de Urbanismo del Gobierno de Aragón
 | Característica | Incluido | Observaciones |
 | ----------- | ----------- | ----------- |
 | Cartografía | Sí | cartografía básica oficial disponible en la Consejería competente en la materia y la cartografía básica que disponga el promotor del instrumento urbanístico.|
-| Capas |  | |
+| Capas | Sí | |
 | Modelos | Sí | Base de Datos Espacial (estructura, los campos y los dominios) anexo III|
 | Topología | Sí | |
 | Símbología | Sí | Artículo 9.—Documentación gráfica. artículo 4. 4 de la Instrucción |
-| Fichas |  | |
-| Aplicaciones | Sí | 3 formatos vectoriales (ArcView, AutoCAD Map y GeoMedia)|
-| Metadatos | | |
+| Fichas | ¿? | No localizadas|
+| Aplicaciones | Sí | 3 formatos vectoriales (ArcView, AutoCAD Map y GeoMedia) . Archivos shp, ndb (geomedia) y dwg|
+| Metadatos | No | |
 | Documentación | Sí | Tutoriales para AutocadMap |
 
 **De interés**:
@@ -72,34 +72,44 @@ Dirección General de Territorio y Paisaje.
 
 | Característica | Incluido | Observaciones |
 | ----------- | ----------- | ----------- |
-| Cartografía |  | |
-| Capas |  | |
-| Modelos |  | |
-| Topología |  | |
-| Símbología |  | |
-| Fichas |  | |
-| Aplicaciones | | |
-| Metadatos | | |
-| Documentación | | |
+| Cartografía | Sí | mapa  topogràfic de les Illes Balears MTIB 1:5000 per al sòl rústic i 1:1000 per al sòl urbà i urbanitzable. ETRS89 (EPSG:25831) |
+| Capas | Sí | ANNEX 3: CODIS ENTITATS (QUALIFICACIONS AL SÒL URBÀ I URBANITZABLE DIRECTAMENT ORDENAT, SÒL URBANITZABLE I CATEGORIES DEL SÒL RÚSTIC). ANNEX 4: CODIS CLASSIFICACIÓ|
+| Modelos | Sí | ANNEX 1D - CONJUNTS D'ARXIUS SHAPEFILES I FULLS DE CÀLCUL |
+| Topología | Sí  | ANNEX 2: NORMES DE DIGITALITZACIÓ I ATRIBUTS DE LA CAPA D'ENTITATS |
+| Símbología | Sí | ANNEX 3: CODIS ENTITATS (QUALIFICACIONS AL SÒL URBÀ I URBANITZABLE DIRECTAMENT ORDENAT, SÒL URBANITZABLE I CATEGORIES DEL SÒL RÚSTIC). ANNEX 4: CODIS CLASSIFICACIÓ|
+| Fichas | Sí| |
+| Aplicaciones | No | |
+| Metadatos | No | |
+| Documentación | No | |
+
+**De interés:**
+- Topología:
+  - Les línees que delimiten els polígons de les diferents capes han de ser coincidents amb les línees de la base cartogràfica, sempre que tingui un sentit lògic i coherent amb la realitat física. 
+  - Els elements gràfics de planejament, tals com límits de classificació, categories, sectors o alineacions, s’hauran de representar als plànols de forma inequívoca. En cas de solapament de vàries línees sobre un mateix punt, línea o traçat, l’escala del tipus de línea o el color hauran de permetre la diferenciació entre elles.
+  - Ha d'estar format únicament per elements gràfics de tipus POLIGONAL
+  - Els polígons gràfics no es poden solapar, o, el que és el mateix, cap polígon gràfic es pot superposar a un altre.
+  -La unió dels polígonsgràfics ocuparà tot l’àmbit sense deixar cap forat(aquesta unió de polígons defineix l’àmbit).Allà on els polígons gràfics siguin adjacents,cal que la línia que comparteixen ambdós polígons estigui formada per exactament els mateixos nodes. Això implica que cal que el viari i el sòlrústic siguin poligonitzats.
+- Formatos: digital en formats Shapefile i fulles de càlcul.
+
 
 ### 05	Canarias
 ### 06	Cantabria
 ### 07	Castilla y León
 
-**ORDEN FOM/1572/2006, de 27 de septiembre, por la que se aprueba la Instrucción Técnica Urbanística 2/2006, sobre normalización de los Instrumentos de Planeamiento Urbanístico (ITPLAN). [Enlace]([https://dogv.gva.es/portal/ficha_disposicion_pc.jsp?sig=005292/2021&L=1](https://bocyl.jcyl.es/boletines/2006/10/10/pdf/BOCYL-D-10102006-10.pdf))**
+**ORDEN FOM/1572/2006, de 27 de septiembre, por la que se aprueba la Instrucción Técnica Urbanística 2/2006, sobre normalización de los Instrumentos de Planeamiento Urbanístico (ITPLAN). [Enlace])(https://bocyl.jcyl.es/boletines/2006/10/10/pdf/BOCYL-D-10102006-10.pdf)**
 
 Consejería de Fomento
 
 | Característica | Incluido | Observaciones |
 | ----------- | ----------- | ----------- |
-| Cartografía |  | |
-| Capas |  | |
-| Modelos |  | |
-| Topología |  | |
-| Símbología |  | |
-| Fichas |  | |
-| Aplicaciones | | |
-| Metadatos | | |
+| Cartografía | Sí | Centro de Información Territorial (CIT) de la Consejería de Fomento |
+| Capas | ¿? | No me queda claro |
+| Modelos | ¿? | Geodatabase o Shapefile, según plantilla. No localizada. DISPOSICIÓN ADICIONAL 1. TABLA SÍNTESIS DE USOS  y Tablas de Tipologías|
+| Topología | ¿? | artículo 2 |
+| Símbología | Sí | Publicada en el BOP en escala de grises|
+| Fichas | Sí | Fichas de síntesis ¿Digitales? |
+| Aplicaciones | Sí | PLURCAD, que consisten en personalizaciones de los productos CAD|
+| Metadatos | Sí | ficha síntesis con los datos clave del planeamiento (metadatos), conforme al modelo reproducido en la Disposición Adicional|
 | Documentación | | |
 
 
@@ -111,39 +121,50 @@ Consejería de Fomento
 
 **Decreto 65/2021, de 14 de mayo, del Consell, de regulación de la Plataforma Urbanística Digital y de la presentación de los instrumentos de planificación urbanística y territorial. [Enlace](https://dogv.gva.es/portal/ficha_disposicion_pc.jsp?sig=005292/2021&L=1)**
 
+- Artículo 6. Norma técnica relativa a la referenciación cartográfica y formatos de presentación de instrumentos de planificación urbanística y territorial y de las declaraciones de interés comunitario
+- Anexo I. Norma técnica: Referenciación cartográfica y formatos de presentación de los instrumentos de planificación urbanística y territorial y de las declaraciones de interés comunitario.
+- Anexo II. Nomenclatura de términos urbanísticos
+- Anexo III. Estructura de los archivos shape
+- Anexo IV. Estructura de capas, códigos de color, línea y símbolo
+
 Conselleria de Política Territorial, Obras Públicas y Movilidad
 
 | Característica | Incluido | Observaciones |
 | ----------- | ----------- | ----------- |
-| Cartografía |  | |
-| Capas |  | |
-| Modelos |  | |
-| Topología |  | |
-| Símbología |  | |
-| Fichas |  | |
-| Aplicaciones | | |
-| Metadatos | | |
+| Cartografía |  Sí | base topográfica, las series cartográficas del Instituto Cartográfico Valenciano y como cartografía temática la de la Infraestructura Verde y Paisaje, así como la cartografía de afecciones territoriales. EPSG: 25830|
+| Capas | Sí |  Anexo IV.|
+| Modelos | Sí | Anexo III |
+| Topología | Sí | Anexo I . ) Los recintos representados gráficamente vendrán definidos siempre por entidades poligonales cerradas, perfectamente solidarias entre
+sí, sin huecos y sin solapas, y serán recintos planos, con altura cero en la coordenada “z”. |
+| Símbología | Sí | Anexo IV|
+| Fichas | ¿? | No localizadas|
+| Aplicaciones | Sí | Descarga http://politicaterritorial.gva.es/va/web/urbanismo/sistema-de-informacion-urbanistic |
+| Metadatos | Sí |  estándar ISO19115|
 | Documentación | | |
 
 ### 11	Extremadura
 
 ### 12	Galicia
 
-**ORDEN de 8 de abril de 2022 por la que se modifica la Orden de 10 de octubre de 2019 de aprobación de las normas técnicas de planeamiento urbanístico de Galicia. [Enlace](http://www.lexnavarra.navarra.es/detalle.asp?r=52066](https://www.xunta.gal/dog/Publicados/2022/20220425/AnuncioG0532-080422-0005_es.html)** 
+**ORDEN de 8 de abril de 2022 por la que se modifica la Orden de 10 de octubre de 2019 de aprobación de las normas técnicas de planeamiento urbanístico de Galicia. [Enlace](https://www.xunta.gal/dog/Publicados/2022/20220425/AnuncioG0532-080422-0005_es.pdf)** 
 
 Consellería de Medio Ambiente, Territorio y Vivienda
 
 | Característica | Incluido | Observaciones |
 | ----------- | ----------- | ----------- |
 | Cartografía |  | |
-| Capas |  | |
-| Modelos |  | |
-| Topología |  | |
-| Símbología |  | |
+| Capas | Sí | Anexo 2 |
+| Modelos | Sí | Anexo 3: Modelo de datos de los archivos vectoriales |
+| Topología | Sí  | Anexo 2 |
+| Símbología | Sí | Anexo 2: Simbología gráfica y parámetros de etiquetado |
 | Fichas |  | |
 | Aplicaciones | | |
 | Metadatos | | |
 | Documentación | | |
+
+**De interés**
+- Anexo 4: Estructura y codificación de carpetas y archivos de las figuras de planeamiento
+- Anexo 8: Catálogo mínimo de objetos geográficos de la base topográfica del planeamiento urbanístico
 
 ### 13	Madrid, Comunidad de
 
@@ -156,14 +177,24 @@ Consellería de Medio Ambiente, Territorio y Vivienda
 | Característica | Incluido | Observaciones |
 | ----------- | ----------- | ----------- |
 | Cartografía |  | |
-| Capas |  | |
-| Modelos |  | |
-| Topología |  | |
-| Símbología |  | |
-| Fichas |  | |
-| Aplicaciones | | |
-| Metadatos | | |
-| Documentación | | |
+| Capas | Sí | ANEXO: Formatos de archivo La información geográfica vectorial señalada en el artículo 10 se entregará en formato shapefile. EPSG: 25830 |
+| Modelos | Sí | TÍTULO IV |
+| Topología | Sí  | La geometría será de tipo poligonal aceptando elementos multiparte y polígonos|
+| Símbología | No | |
+| Fichas | No | |
+| Aplicaciones | No | |
+| Metadatos | No | |
+| Documentación | No | |
+
+**De interés**
+- Cuando el ámbito del instrumento tenga establecida una delimitación gráfica oficial (municipio, con-cejo, polígono o parcelas catastrales...), o dichas referencias gráficas sean necesarias para ajustar el límite del ámbito, se utilizará la delimitación oficial que para esa fecha tenga establecido el Departa-mento del Gobierno de Navarra competente.
+- El planeamiento a desarrollar deberá ajustarse a la delimitación del ámbito oficial. Sólo podrá haber desajuste en caso de que la nueva ordenación requiera la modificación del ámbito, y sólo en las parce-las que requieran ser segregadas o anexionadas.
+- Coherencia entre el contenido de la documentación escrita y los planos
+- Coherencia topológica con los recintos definidos en planeamiento de nivel superior
+- Coherencia topológica con las líneas de catastro:
+- Coherencia topológica de cada conjunto de datos consigo mismo
+- Coherencia topológica de cada conjunto de datos con los demás
+- Coherencia topológica entre recintos de conjuntos de datos con contenidos complementarios
 
 ### 16	País Vasco
 
