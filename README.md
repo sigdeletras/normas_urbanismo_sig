@@ -5,6 +5,12 @@ Recopilación y análisis normativas técnicas españolas que regulen la present
 - [1º Entrada y mensajes en Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6979697381382479872/)
 - [2º Entrada y mensajes en Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6979697381382479872/)
 
+## ¿Cómo colaborar?
+
+Para colaborar complemtando o mejorando este repositorio público existen varias vías
+- Añadir un issue indicando un nuevo recurso o enlace de interés.
+- Clonando el respositorio y realizando Pull Request. [¿Breve guía para principiantes de como contribuir a un repositorio en GitHub?](https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/)
+- 
 ## Características a evaluar
 
 - Cartografía: Relación de cartografías de referencia.
