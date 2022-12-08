@@ -14,19 +14,9 @@ Recopilación normativas técnicas españolas que regulen la presentación digit
 
 ## Normas
 
-### Comunidad Valenciana. Generalitat Valenciana. Conselleria de Política Territorial, Obras Públicas y Movilidad
-
-Decreto 65/2021, de 14 de mayo, del Consell, de regulación de la Plataforma Urbanística Digital y de la presentación de los instrumentos de planificación urbanística y territorial. https://dogv.gva.es/portal/ficha_disposicion_pc.jsp?sig=005292/2021&L=1
-
-| Característica | Incluido | Observaciones |
-| ----------- | ----------- | ----------- |
-| Denominación de capas |  | |
-| Tablas de dominio |  | |
-| Calidad topológica |  | |
-| Símbología |  | |
-| Archivos semilla |  | |
-
-## Principado de Asturias. 
+### 01	Andalucía
+### 02	Aragón
+### 03	Asturias, Principado de
 
 Normalización urbanística. [Enlace](https://www.asturias.es/detalle/-/categories/612963?p_r_p_categoryId=612963&_com_liferay_asset_categories_navigation_web_portlet_AssetCategoriesNavigationPortlet_articleId=2535583&articleId=2535583&title=Normalizaci%C3%B3n%20urban%C3%ADstica&redirect=https%3A%2F%2Fwww.asturias.es%2Fast%2Fgeneral%2F-%2Fcategories%2F572499%3Fp_r_p_categoryId%3D572499)
 
@@ -42,9 +32,10 @@ La instrucción sobre normalización de instrumentos de planeamiento y gestión 
 | Símbología |  | |
 | Archivos semilla |  | |
 
-##  ILLES BALEARS. Dirección General de Territorio y Paisaje. 
+### 04	Balears, Illes
 
 Normas Técnicas de Planeamiento (NTP) [Enlace](https://www.caib.es/sites/muib/es/ntp_normas_tecnicas_de_planeamiento/)
+Dirección General de Territorio y Paisaje. 
 
 | Característica | Incluido | Observaciones |
 | ----------- | ----------- | ----------- |
@@ -53,5 +44,34 @@ Normas Técnicas de Planeamiento (NTP) [Enlace](https://www.caib.es/sites/muib/e
 | Calidad topológica |  | |
 | Símbología |  | |
 | Archivos semilla |  | |
+
+### 05	Canarias
+### 06	Cantabria
+### 07	Castilla y León
+### 08	Castilla - La Mancha
+### 09	Cataluña
+### 10	Comunitat Valenciana.
+
+Decreto 65/2021, de 14 de mayo, del Consell, de regulación de la Plataforma Urbanística Digital y de la presentación de los instrumentos de planificación urbanística y territorial. [Enlace](https://dogv.gva.es/portal/ficha_disposicion_pc.jsp?sig=005292/2021&L=1)
+Conselleria de Política Territorial, Obras Públicas y Movilidad
+
+| Característica | Incluido | Observaciones |
+| ----------- | ----------- | ----------- |
+| Denominación de capas |  | |
+| Tablas de dominio |  | |
+| Calidad topológica |  | |
+| Símbología |  | |
+| Archivos semilla |  | |
+
+### 11	Extremadura
+### 12	Galicia
+### 13	Madrid, Comunidad de
+### 14	Murcia, Región de
+### 15	Navarra, Comunidad Foral de
+### 16	País Vasco
+### 17	Rioja, La
+### 18	Ceuta
+### 19	Melilla
+
 
 
