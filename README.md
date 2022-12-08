@@ -47,15 +47,22 @@ Dirección General de Urbanismo del Gobierno de Aragón
 
 | Característica | Incluido | Observaciones |
 | ----------- | ----------- | ----------- |
-| Cartografía |  | |
+| Cartografía | Sí | cartografía básica oficial disponible en la Consejería competente en la materia y la cartografía básica que disponga el promotor del instrumento urbanístico.|
 | Capas |  | |
-| Modelos |  | |
-| Topología |  | |
-| Símbología |  | |
+| Modelos | Sí | Base de Datos Espacial (estructura, los campos y los dominios) anexo III|
+| Topología | Sí | |
+| Símbología | Sí | Artículo 9.—Documentación gráfica. artículo 4. 4 de la Instrucción |
 | Fichas |  | |
 | Aplicaciones | Sí | 3 formatos vectoriales (ArcView, AutoCAD Map y GeoMedia)|
 | Metadatos | | |
 | Documentación | Sí | Tutoriales para AutocadMap |
+
+**De interés**:
+- Lista de escalas. Artículo 5.—Escalas.
+- Instrucciones topológicas:  
+  - Todas las clases de entidad o capas que formen parte del Sistema de Información Geográfica estarán formadas por geometrías de tipo área, línea o punto, no permitiéndose geometrías mixtas o combinadas dentro de la misma capa de información.
+  - Las líneas estarán compuestas por tramos rectos, no admitiéndose geometrías curvas, como pueden ser arcos circulares, elípticos, parabólicos, etc.; así como tampoco líneas B-splines (curvas de Bézier u otro tipo de curvas similares).
+
 
 ### 04	Balears, Illes
 
