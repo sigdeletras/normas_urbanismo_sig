@@ -12,7 +12,7 @@ Decreto 65/2021, de 14 de mayo, del Consell, de regulación de la Plataforma Urb
 
 | Característica      | Incluido | Observaciones |
 | ----------- | ----------- | ----------- |
-| Denominación de capas | Title       | Title       |
-| Tablas de dominio | Text        | Text        |
-| Calidad topológica| Text        | Text        |
-| Símbología | Text        | Text        |
+| Denominación de capas | No | |
+| Tablas de dominio | No | |
+| Calidad topológica | No | |
+| Símbología | No | |
