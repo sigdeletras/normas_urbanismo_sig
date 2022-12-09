@@ -31,21 +31,24 @@ Para colaborar complemtando o mejorando este repositorio público existen varias
 
 ### 01	Andalucía
 
-Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía (LISTA).
-
-Artículo 62. Contenido documental de los instrumentos de ordenación urbanística
+- Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía (LISTA). [Enlace](https://www.juntadeandalucia.es/eboja/2021/233/BOJA21-233-00135-19403-01_00251661.pdf)
+  - Artículo 62. Contenido documental de los instrumentos de ordenación urbanística. Respecto a la cartografía, sólo referencia a los conjuntos de datos de Información y Ordenación.
+- Decreto 550/2022, de 29 de noviembre, por el que se aprueba el Reglamento General de la Ley 7/2021, de 1 de diciembre, de impulso  para la sostenibilidad del territorio de Andalucía. [Enlace](https://www.juntadeandalucia.es/sites/default/files/inline-files/2022/12/Decreto%20550_2022_REGLAMENTO%20LISTA.pdf)
+  - Artículo 2.2 El derecho de acceso a la información territorial y urbanística
+  - Artículo 5. Registros administrativos de instrumentos de ordenación urbanística y convenios. 
+  - Artículo 6. Sistema de información territorial y urbanística
 
 | Característica | Incluido | Observaciones |
 | ----------- | ----------- | ----------- |
-| Cartografía |  | |
-| Capas |  |  |
-| Modelos | Sí | Anexo 3: Modelo de datos de los archivos vectoriales |
-| Topología | Sí  | Anexo 2 |
-| Simbología | Sí | Anexo 2: Simbología gráfica y parámetros de etiquetado |
-| Fichas |  | |
-| Aplicaciones | | |
-| Metadatos | | |
-| Documentación | | |
+| Cartografía | No | |
+| Capas | No |  |
+| Modelos | No | |
+| Topología |  No | |
+| Simbología | No |  |
+| Fichas | No | |
+| Aplicaciones | No| |
+| Metadatos | No | |
+| Documentación | No | |
 
 **De interés**
 
