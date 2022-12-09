@@ -155,6 +155,8 @@ FORMATO SHAPEFILE (shp) [Enlace](https://urbanismo.castillalamancha.es/sites/urb
 
 ### 09	Cataluña
 
+- Mapa urbanístic de Catalunya sintètic v1.2. Especificacions per al format “Shapefile” Implementació 1 Revisió del document 19/02/2016 [Enlace PDF](https://territori.gencat.cat/web/.content/home/06_territori_i_urbanisme/07_observatori_territori/mapa_urbanistic_de_catalunya/estandard/documents/especificacions_shp_mucs.pdf)
+
 ### 10	Comunitat Valenciana.
 
 **Decreto 65/2021, de 14 de mayo, del Consell, de regulación de la Plataforma Urbanística Digital y de la presentación de los instrumentos de planificación urbanística y territorial. [Enlace](https://dogv.gva.es/portal/ficha_disposicion_pc.jsp?sig=005292/2021&L=1)**
@@ -176,7 +178,7 @@ Conselleria de Política Territorial, Obras Públicas y Movilidad
 sí, sin huecos y sin solapas, y serán recintos planos, con altura cero en la coordenada “z”. |
 | Simbología | Sí | Anexo IV|
 | Fichas | ¿? | No localizadas|
-| Aplicaciones | Sí | Descarga http://politicaterritorial.gva.es/va/web/urbanismo/sistema-de-informacion-urbanistic |
+| Aplicaciones | Sí | Descarga http://politicaterritorial.gva.es/va/web/urbanismo/sistema-de-informacion-urbanistic Descarga shp [Enlace](https://politicaterritorial.gva.es/es/web/urbanismo/models-arxius-shp-descargables) |
 | Metadatos | Sí |  estándar ISO19115|
 | Documentación | | |
 
@@ -237,6 +239,8 @@ Consellería de Medio Ambiente, Territorio y Vivienda
 ### 16	País Vasco
 
 ### 17	Rioja, La
+
+** Documento de recomendaciones técnicas para la interpretación y aplicación de la Ley 5/2006, de 2 de mayo, de Ordenación del Territorio y Urbanismo de La Rioja y otras normativas sectoriales con incidencia en la materia, para coordinar y agilizar el procedimiento de redacción y aprobación del planeamiento urbanístico. [Enlace](https://www.larioja.org/territorio/es/ordenacion-territorio-urbanismo/documento-recomendaciones-tecnicas)**
 
 ### 18	Ceuta
 
