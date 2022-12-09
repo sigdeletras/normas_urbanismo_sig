@@ -150,6 +150,9 @@ Consejería de Fomento
 
 ### 08	Castilla - La Mancha
 
+- ANEXO 1_SIU INSTRUCCIÓN 20170720_DEFINITIVA INSTRUCCIONES PARA GENERAR EL ARCHIVO DE PLANEAMIENTO URBANÍSTICO EN 
+FORMATO SHAPEFILE (shp) [Enlace](https://urbanismo.castillalamancha.es/sites/urbanismo.castillalamancha.es/files/documentos/pdf/20191022/instrucciones_para_generar_el_archivo_de_planeamiento_urbanistico_en_formato_shp.pdf)
+
 ### 09	Cataluña
 
 ### 10	Comunitat Valenciana.
