@@ -128,7 +128,23 @@ Dirección General de Territorio y Paisaje.
 
 
 ### 05	Canarias
+
 ### 06	Cantabria
+- Ley 5/2022, de 15 de julio, de Ordenación del Territorio y Urbanismo de Cantabria. [Enlace]([https://www.juntadeandalucia.es/eboja/2021/233/BOJA21-233-00135-19403-01_00251661.pdf](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-13844))
+  - Artículo 55. Normas técnicas de planeamiento. Pendientes de desarrollo del reglamento (Consulta el 14/12/2022). Interesante el comentario "Las normas técnicas de la cartografía urbanística y su tratamiento informático."
+
+| Característica | Incluido | Observaciones |
+| ----------- | ----------- | ----------- |
+| Cartografía | No | |
+| Capas | No |  |
+| Modelos | No | |
+| Topología |  No | |
+| Simbología | No |  |
+| Fichas | No | |
+| Aplicaciones | No| |
+| Metadatos | No | |
+| Documentación | No | |
+
 ### 07	Castilla y León
 
 **ORDEN FOM/1572/2006, de 27 de septiembre, por la que se aprueba la Instrucción Técnica Urbanística 2/2006, sobre normalización de los Instrumentos de Planeamiento Urbanístico (ITPLAN). [Enlace])(https://bocyl.jcyl.es/boletines/2006/10/10/pdf/BOCYL-D-10102006-10.pdf)**
